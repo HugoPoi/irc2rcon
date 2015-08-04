@@ -8,7 +8,7 @@ written in python
 #Install
 1. `git clone --recursive https://github.com/HugoPoi/irc2rcon.git`
 1. `cd irc2rcon`
-1. `pip install`
+1. `pip install -r requirements.txt`
 
 #Usage
 
